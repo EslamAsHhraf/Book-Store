@@ -1,8 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { BookService } from '../../servies/book/book.service';
+import { BookService } from '../../services/book/book.service';
 import { Book } from '../../models/Book';
 import { ActivatedRoute, Router } from '@angular/router';
-import { CartService } from '../../servies/cart/services';
+import { CartService } from '../../services/cart/cart.service';
 @Component({
   selector: 'app-home',
   templateUrl: './book-list.component.html',
