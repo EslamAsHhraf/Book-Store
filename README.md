@@ -1,11 +1,11 @@
-# <img  align="center" width= 65px  src="https://media3.giphy.com/media/Plsxk51MC0UArt83I3/giphy.gif?cid=ecf05e47x5twjvpaaeqgr2yfqkm4kk8ey6vrzzdbasqhsul6&rid=giphy.gif&ct=s"> To Do List
+# <img  align="center" width= 65px  src="https://media2.giphy.com/media/8NaYbrMzn9a4tu4z6i/giphy.gif?cid=ecf05e47nsv6nmm3xfov38h7nsy030ch0n0hpd1yiavx27ji&ep=v1_stickers_search&rid=giphy.gif&ct=s"> Book Store
 
 <div align="center">
 
-<img height=425px src="https://media1.giphy.com/media/aSZSj0mT8f6tW/giphy.gif?cid=ecf05e47h1ah4mrjxg2rwi3a93595da0vbl6mk41uqy1lxnn&rid=giphy.gif&ct=g">
+<img height=325px src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ab4f4e58178827.59f2178e70142.gif">
 <div align="center"  width=10%>
 
-### "Know exactly what you want to improve your time management ⏰"
+### "A book can become your best companion in times 📙"
 
 </div>
 </div>
@@ -26,18 +26,23 @@
 
 <ul>
  <li>
-
-Build **To Do List** website by using **React JS**</li>
-
+ 
+ **Book Store** website by using **Angular**</li>
+  <li>You can see details of each book when click it </li>
+  <li>Cart page to view books which wanted to buy and can modify quantity </li>
+  <li>Search bar to search for your favorite book.</li>
  <li> The Project is built by
  
  <ul>
-    <li> React Hooks (useState, useEffect) </li>
-    <li> CSS - for styling </li>
+    <li><a href="https://angular.io/api/platform-browser/BrowserModule">BrowserModule</a>  </li>
+    <li><a href="https://angular.io/tutorial/tour-of-heroes/toh-pt5">AppRoutingModule</a>  </li>
+    <li><a href="https://angular.io/guide/forms">FormsModule</a>  </li>
+    <li><a href="https://angular.io/api/common/http/HttpClientModule">HttpClientModule</a>  </li>
+    <li> <a href="https://en.wikipedia.org/wiki/CSS">CSS</a> - for styling </li>
    </ul>
    </li>
 </ul>
-<li>Let's Go visit <a href="https://willowy-twilight-f6acef.netlify.app/">To Do List</a>
+<li>Let's Go visit <a href="https://willowy-twilight-f6acef.netlify.app/">Book Store</a>
 </li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
@@ -50,7 +55,7 @@ Build **To Do List** website by using **React JS**</li>
 <br>
 
 ```
-git clone https://github.com/EslamAsHhraf/To-Do-List
+git clone https://github.com/EslamAsHhraf/Book-Store
 ```
 
 </li>
@@ -99,4 +104,4 @@ npm start
 
 ## 🔒 License
 
-> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/To-Do-List/blob/main/LICENSE) for more information ©EslamAsHhraf.
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/Book-Store/blob/main/LICENSE) for more information ©EslamAsHhraf.
