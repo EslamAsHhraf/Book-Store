@@ -82,7 +82,7 @@ npm start
 ## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063"> Demo
 
 <div  align="center">
-<video src="https://github-production-user-asset-6210df.s3.amazonaws.com/71986226/261450328-e8a528d0-a1a6-46c2-b8ca-c845723e3881.mp4">
+<video src="https://github.com/EslamAsHhraf/Neural-Network-Labs/assets/71986226/e8a528d0-a1a6-46c2-b8ca-c845723e3881">
 </video> 
 </div>
 
