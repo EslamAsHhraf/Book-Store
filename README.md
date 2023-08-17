@@ -1,27 +1,102 @@
-# BookStore
+# <img  align="center" width= 65px  src="https://media3.giphy.com/media/Plsxk51MC0UArt83I3/giphy.gif?cid=ecf05e47x5twjvpaaeqgr2yfqkm4kk8ey6vrzzdbasqhsul6&rid=giphy.gif&ct=s"> To Do List
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+<div align="center">
 
-## Development server
+<img height=425px src="https://media1.giphy.com/media/aSZSj0mT8f6tW/giphy.gif?cid=ecf05e47h1ah4mrjxg2rwi3a93595da0vbl6mk41uqy1lxnn&rid=giphy.gif&ct=g">
+<div align="center"  width=10%>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### "Know exactly what you want to improve your time management ⏰"
 
-## Code scaffolding
+</div>
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<hr style="background-color: #4b4c60"></hr>
 
-## Build
+## <img align= center width=50px height=50px src="https://user-images.githubusercontent.com/71986226/154075883-2a5679d2-b411-448f-b423-9565babf35aa.gif"> Table of Contents
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- <a href ="#about"> 📙 Overview</a>
+- <a href ="#started"> 💻 Get Started</a>
+- <a href ="#video"> 🎥 Demo</a>
+- <a href ="#contributors"> ✨ Contributors</a>
+- <a href ="#license"> 🔒 License</a>
+<hr style="background-color: #4b4c60"></hr>
+<a id = "about"></a>
 
-## Running unit tests
+## <img align="center"  height =50px src="https://user-images.githubusercontent.com/71986226/154076110-1233d7a8-92c2-4d79-82c1-30e278aa518a.gif"> Overview
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<ul>
+ <li>
 
-## Running end-to-end tests
+Build **To Do List** website by using **React JS**</li>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+ <li> The Project is built by
+ 
+ <ul>
+    <li> React Hooks (useState, useEffect) </li>
+    <li> CSS - for styling </li>
+   </ul>
+   </li>
+</ul>
+<li>Let's Go visit <a href="https://willowy-twilight-f6acef.netlify.app/">To Do List</a>
+</li>
+<hr style="background-color: #4b4c60"></hr>
+<a id = "Started"></a>
 
-## Further help
+## <img  align= center width=50px height=50px src="https://c.tenor.com/HgX89Yku5V4AAAAi/to-the-moon.gif"> Get Started
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<ol>
+<li>Clone the repository.
+
+<br>
+
+```
+git clone https://github.com/EslamAsHhraf/To-Do-List
+```
+
+</li>
+<li>Open terminal</li>
+<li>
+
+```
+npm install
+```
+
+</li>
+<li>
+
+```
+npm start
+```
+
+</li>
+</ol>
+
+<hr style="background-color: #4b4c60"></hr>
+<a id ="Video"></a>
+
+## <img  align= center width= 70px height =70px src="https://img.genial.ly/5f91608064ad990c6ee12237/bd7195a3-a8bb-494b-8a6d-af48dd4deb4b.gif?genial&1643587200063"> Demo
+
+<div  align="center">
+<video src="https://user-images.githubusercontent.com/71986226/189552859-023d588f-b610-4200-b024-d340acae22aa.mp4">
+</video> 
+</div>
+
+<hr style="background-color: #4b4c60"></hr>
+<a id ="Contributors"></a>
+
+## <img align="center"  height =60px src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif"> Contributors
+
+<br>
+<table >
+  <tr>
+        <td align="center"><a href="https://github.com/EslamAsHhraf"><img src="https://avatars.githubusercontent.com/u/71986226?v=4" width="150px;" alt=""/><br /><sub><b>Eslam Ashraf</b></sub></a><br /></td>
+  </tr>
+</table>
+
+<hr style="background-color: #4b4c60"></hr>
+
+<a id ="License"></a>
+
+## 🔒 License
+
+> **Note**: This software is licensed under MIT License, See [License](https://github.com/EslamAsHhraf/To-Do-List/blob/main/LICENSE) for more information ©EslamAsHhraf.
