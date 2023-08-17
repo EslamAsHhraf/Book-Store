@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img height=325px src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ab4f4e58178827.59f2178e70142.gif">
+<img height=375px src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ab4f4e58178827.59f2178e70142.gif">
 <div align="center"  width=10%>
 
 ### "A book can become your best companion in times 📙"
