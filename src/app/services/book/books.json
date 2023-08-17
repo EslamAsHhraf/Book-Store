@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "How Your Child Learns Best",
+    "author": " Junkybooks",
+    "publicationYear": 2020,
+    "description": "There are disturbing changes underway in today’s school systems. Funding is frequently tied to scores achieved on standardized tests, which primarily evaluate rote memory. Teaching “to” tests like these inevitably focuses resources and curriculum on the lower-scoring students.",
+    "thumbnailUrl": "/assets/images/books/book-1.jpg",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "title": "Pride And Prejudice",
+    "author": "Jane Austen",
+    "publicationYear": 2020,
+    "description": "Austen's finest comedy of manners portrays life in the genteel rural society of the early 1800s, and tells of the initial misunderstandings (and mutual enlightenment) between lively and quick witted Elizabeth Bennet and the haughty Mr. Darcy.",
+    "thumbnailUrl": "/assets/images/books/book-2.jpg",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "title": "Goliath",
+    "author": "Richard Turner",
+    "publicationYear": 2014,
+    "description": "In 1931, during its maiden voyage, the British Airship Goliath mysteriously disappears without a trace. Hidden deep inside is a secret that could change the world.",
+    "thumbnailUrl": "/assets/images/books/book-3.jpeg",
+    "price": 200
+  },
+  {
+    "id": 4,
+    "title": "Siddhartha",
+    "author": "Hesse Hesse Herman",
+    "publicationYear": 2020,
+    "description": "SIDDHARTHA An Indian Tale by Hermann Hesse FIRST PART To Romain Rolland, my dear friend THE SON OF THE BRAHMAN In the shade of the house, in the sunshine of the riverbank near the boats, in the shade of the Sal-wood forest, in the shade of the fig tree is where Siddhartha grew up, the handsome son of the Brahman, the young falcon, together with his friend Govinda, son of a Brahman.",
+    "thumbnailUrl": "/assets/images/books/book-4.jpg",
+    "price": 50
+  },
+  {
+    "id": 5,
+    "title": "Website Traffic",
+    "author": "Junkybooks",
+    "publicationYear": 2020,
+    "description": "The World Wide Web has truly pervaded all aspects of human existence. Everything and everyone is going online now, and the move towards a totally connected world is not “if” anymore, it’s “when”.",
+    "thumbnailUrl": "/assets/images/books/book-5.png",
+    "price": 600
+  },
+  {
+    "id": 6,
+    "title": "Blockchain Secrets",
+    "author": "Junkybooks",
+    "publicationYear": 2015,
+    "description": "Countless discoveries and inventions have been made throughout our history. Some of the developments have been minor, some of them have been major, some have been short-lived, and other events have been more critical and longer-lasting.",
+    "thumbnailUrl": "/assets/images/books/book-6.png",
+    "price": 350
+  }
+]
