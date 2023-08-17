@@ -1,0 +1,29 @@
+ <li >
+        <a routerLink="/book/{{book.id}}">
+            <img  class="img" src="{{book.thumbnailUrl}}" alt={{book.title}}>
+            <div class="content">
+                <div class="name">
+                   {{book.title}}
+                </div>
+                <span (click)="emitAddToCart($event)" class="add">
+                    ➕
+                </span>
+                <div class="product-item-footer">
+                    <div class="author">
+                        <span >
+                             {{book.author}}
+                        </span>
+                    </div>
+                    <div class="cook-time">
+                        <span>🕒</span>
+                        {{book.publicationYear}}
+                    </div>
+                </div>
+                <div class="price">
+                    <span>
+                        {{book.price|currency}}
+                    </span>
+                </div>
+            </div>
+        </a>
+    </li>

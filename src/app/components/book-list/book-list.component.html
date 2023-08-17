@@ -1,0 +1,8 @@
+<app-search></app-search>
+<app-not-found [visible]="!books || books.length == 0" resetLinkText="Reset Search"></app-not-found>
+
+<ul>
+  <app-book-details *ngFor="let book of books"
+        [book]="book" (addToCart)="addToCart(book)"></app-book-details>
+
+</ul>
