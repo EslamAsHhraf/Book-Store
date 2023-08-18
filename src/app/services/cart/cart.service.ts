@@ -12,7 +12,8 @@ export class CartService {
   addToCart(book: Book): void {
     let cartItem = this.cart.items.find((item) => item.book.id === book.id);
     if (cartItem) {
-      this.changeQuantity(book.id, cartItem.quantity + 1);
+      if (cartItem.quantity<3)
+        this.changeQuantity(book.id, cartItem.quantity + 1);
       return;
     }
     this.cart.items.push(new CartItem(book));
