@@ -42,7 +42,7 @@
    </ul>
    </li>
 </ul>
-<li>Let's Go visit <a href="https://willowy-twilight-f6acef.netlify.app/">Book Store</a>
+<li>Let's Go visit <a href="https://book-store-1fa37.web.app/">Book Store</a>
 </li>
 <hr style="background-color: #4b4c60"></hr>
 <a id = "Started"></a>
